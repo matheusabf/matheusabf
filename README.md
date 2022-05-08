@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando UX
+- 🌱 Estudando JS
 - 😄 Pronomes: ele/dele
 
 <div align="center">
